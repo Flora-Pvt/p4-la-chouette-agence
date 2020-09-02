@@ -12,7 +12,7 @@ Puis après les changements ils affichent :
 ## Les changements apportés 
 
 ### SEO
-- Ajout du titre et de la description dans la balise <head>.
+- Ajout du titre et de la description dans la balise `<head>`.
 - Remplacer des images par du texte lorsque cela s'y prête.
 - Changement du format et diminution de la taille des images. On passe d'une taille de 7,64 MB à 198 KB.
 - Les mots cachés et les liens abusifs sont supprimés.
@@ -23,10 +23,10 @@ minimum.
 
 ### Accessiblité
 - Changement de la langue en indiquant fr dans le html.
-- Ajout de titres <h2> avant les <h3>.
+- Ajout des titres h2 avant les titres h3.
 - Les préconisations pour le contraste sont maintenant suivies.
 - Focus rendu apparent.
-- Les balises <label> sont rattachées aux balises <input> correspondantes et les
+- Les balises `<label>` sont rattachées aux balises `<input>` correspondantes et les
 aria-label nécessaires sont rajoutées.
 
 
