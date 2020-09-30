@@ -4,9 +4,11 @@ Ce dépôt héberge le site de la chouette agence après que j'ai apporté des a
 Ce projet a été réalisé dans le cadre de la formation de développeur web d'Open Classrooms (OC) en août 2020, grâce à des fichiers fournis par OC.
 
 Lighthouse nous a permis de tester le site. Tout d'abord les résultats affichés par Lighthouse étaient les suivants :
+
 ![premiers resultats](https://raw.githubusercontent.com/Flora-Pvt/p4-la-chouette-agence/master/img/startingwebsiteindexSC.png)
 
 Puis après les changements ils affichent : 
+
 ![derniers resultats](https://raw.githubusercontent.com/Flora-Pvt/p4-la-chouette-agence/master/img/startingwebsiteindexSC-9label.png)
 
 ## Les changements apportés 
